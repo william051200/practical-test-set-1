@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Set1 Ng Wei Lun</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+    <string-array name="course_list">
+        <item>Course 1</item>
+        <item>Course 2</item>
+        <item>Course 3</item>
+    </string-array>
+    <string name="check">Check</string>
+    <string name="contact">Contact Department of Exam</string>
+</resources>
